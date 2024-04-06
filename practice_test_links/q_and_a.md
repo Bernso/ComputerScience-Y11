@@ -2,137 +2,139 @@
 
 Pratice Tests:
 
-https://isaaccs.org/bq/gcse_net_02
-https://isaaccs.org/bq/gcse_net_11
-https://isaaccs.org/bq/gcse_net_01
-https://isaaccs.org/bq/gcse_net_12
-https://isaaccs.org/bq/gcse_net_17
-https://isaaccs.org/bq/net_network_g01
-https://isaaccs.org/bq/net_network_g02
-https://isaaccs.org/bq/net_network_g03
-https://isaaccs.org/bq/gcse_net_05
-https://isaaccs.org/bq/gcse_net_06
-https://isaaccs.org/bq/gcse_net_10
-https://isaaccs.org/bq/gcse_net_13
-https://isaaccs.org/bq/gcse_net_14
-https://isaaccs.org/bq/net_internet_g01
-https://isaaccs.org/bq/net_internet_g02
-https://isaaccs.org/bq/net_internet_g03
-https://isaaccs.org/bq/net_hard_g01
-https://isaaccs.org/bq/net_hard_g02
-https://isaaccs.org/bq/net_hard_g03
-https://isaaccs.org/bq/gcse_bool_02
-https://isaaccs.org/bq/gcse_bool_08
-https://isaaccs.org/bq/gcse_bool_01
-https://isaaccs.org/bq/gcse_bool_03
-https://isaaccs.org/bq/gcse_bool_04
-https://isaaccs.org/bq/gcse_bool_05_v2
-https://isaaccs.org/bq/gcse_bool_07
-https://isaaccs.org/bq/gcse_bool_09
-https://isaaccs.org/bq/gcse_bool_10
-https://isaaccs.org/bq/sys_bool_exp_truth_g1
-https://isaaccs.org/bq/sys_bool_exp_truth_g2
-https://isaaccs.org/bq/sys_bool_truth_g1
-https://isaaccs.org/bq/sys_bool_truth_g2
-https://isaaccs.org/bq/embedded_systems_g_01
-https://isaaccs.org/bq/embedded_systems_g_02
-https://isaaccs.org/bq/gcse_sys_01
-https://isaaccs.org/bq/gcse_sys_02
-https://isaaccs.org/bq/gcse_sys_06
-https://isaaccs.org/bq/gcse_sys_07
-https://isaaccs.org/bq/gcse_sys_14
-https://isaaccs.org/bq/gcse_sys_15
-https://isaaccs.org/bq/gcse_sys_16
-https://isaaccs.org/bq/gcse_sys_17
-https://isaaccs.org/bq/sys_arch_g01
-https://isaaccs.org/bq/gcse_sys_18
-https://isaaccs.org/bq/gcse_sys_20
-https://isaaccs.org/bq/gcse_sys_19
-https://isaaccs.org/bq/sys_arch_g02
-https://isaaccs.org/bq/gcse_sys_22
-https://isaaccs.org/bq/gcse_sys_21
-https://isaaccs.org/bq/gcse_sys_11
-https://isaaccs.org/bq/gcse_sys_12
-https://isaaccs.org/bq/gcse_data_14
-https://isaaccs.org/bq/gcse_data_18
-https://isaaccs.org/bq/gcse_data_26
-https://isaaccs.org/bq/gcse_sys_05
-https://isaaccs.org/bq/gcse_sys_03
-https://isaaccs.org/bq/gcse_sys_13
-https://isaaccs.org/bq/gcse_sys_08
-https://isaaccs.org/bq/gcse_sys_04
-https://isaaccs.org/bq/sys_arch_memory_g_03
-https://isaaccs.org/bq/sys_arch_memory_g_01
-https://isaaccs.org/bq/sys_arch_storage_g_04
-https://isaaccs.org/bq/sys_arch_memory_g_02
-https://isaaccs.org/bq/sys_arch_storage_g_01
-https://isaaccs.org/bq/sys_arch_storage_g_02
-https://isaaccs.org/bq/sys_arch_storage_g_03
-https://isaaccs.org/bq/sys_hard_g01
-https://isaaccs.org/bq/sys_hard_g02
-https://isaaccs.org/bq/sys_hard_g03
-https://isaaccs.org/bq/sys_hard_g04
-https://isaaccs.org/bq/sys_hard_g10
-https://isaaccs.org/bq/sys_hard_g05
-https://isaaccs.org/bq/sys_hard_g06
-https://isaaccs.org/bq/sys_hard_g08
-https://isaaccs.org/bq/sys_hard_g09
-https://isaaccs.org/bq/sys_hard_g07
-https://isaaccs.org/bq/sys_os_software_defs_g01
-https://isaaccs.org/bq/sys_os_software_utility_g01
-https://isaaccs.org/bq/sys_soft_g01
-https://isaaccs.org/bq/sys_soft_g02
-https://isaaccs.org/bq/sys_soft_g05
-https://isaaccs.org/bq/sys_soft_g04
-https://isaaccs.org/bq/sys_soft_g06
-https://isaaccs.org/bq/sys_soft_g07
-https://isaaccs.org/bq/sys_soft_g08
-https://isaaccs.org/bq/sys_soft_g03
-https://isaaccs.org/bq/sys_os_role_of_os_g01
-https://isaaccs.org/bq/sys_os_role_of_os_g02
-https://isaaccs.org/bq/sys_os_role_of_os_g03
-https://isaaccs.org/bq/sys_os_g06
-https://isaaccs.org/bq/sys_os_g07
-https://isaaccs.org/bq/sys_os_g05
-https://isaaccs.org/bq/sys_os_g01
-https://isaaccs.org/bq/sys_os_g02
-https://isaaccs.org/bq/sys_os_g04
-https://isaaccs.org/bq/sys_os_g03
-https://isaaccs.org/bq/sys_proglang_g01
-https://isaaccs.org/bq/sys_proglang_g06
-https://isaaccs.org/bq/sys_proglang_g02
-https://isaaccs.org/bq/sys_proglang_g03
-https://isaaccs.org/bq/sys_proglang_g04
-https://isaaccs.org/bq/sys_proglang_g05
-https://isaaccs.org/bq/sys_proglang_g07
-https://isaaccs.org/bq/sys_proglang_g08
-https://isaaccs.org/bq/sys_proglang_g09
-https://isaaccs.org/bq/sys_proglang_g10
-https://isaaccs.org/bq/sys_trans_g01
-https://isaaccs.org/bq/sys_trans_g02
-https://isaaccs.org/bq/sys_trans_g03
-https://isaaccs.org/bq/sys_trans_g04
-https://isaaccs.org/bq/sys_trans_g06
-https://isaaccs.org/bq/sys_trans_g05
-https://isaaccs.org/bq/sys_trans_g07
-https://isaaccs.org/bq/cyb_social_techniques_g03
-https://isaaccs.org/bq/cyb_social_techniques_g01
-https://isaaccs.org/bq/cyb_social_techniques_g02
-https://isaaccs.org/bq/cyb_social_techniques_g05
-https://isaaccs.org/bq/cyb_social_techniques_g06
-https://isaaccs.org/bq/cyb_social_techniques_g07
-https://isaaccs.org/bq/cyb_social_techniques_g08
-https://isaaccs.org/bq/cyb_social_techniques_g04
-https://isaaccs.org/bq/cyb_mal_g01
-https://isaaccs.org/bq/cyb_mal_g02
-https://isaaccs.org/bq/cyb_mal_g03
-https://isaaccs.org/bq/cyb_mal_g04
-https://isaaccs.org/bq/cyb_sec_g01
-https://isaaccs.org/bq/cyb_sec_g03
-https://isaaccs.org/bq/cyb_sec_g04
-https://isaaccs.org/bq/cyb_sec_g05
-https://isaaccs.org/bq/cyb_sec_g07
-https://isaaccs.org/bq/cyb_sec_g08
-https://isaaccs.org/bq/cyb_sec_g06
-https://isaaccs.org/bq/data_numbases_binary_and_decimal_g01
-https://isaaccs.org/bq/data_numbases_binary_and_decimal_g02
+Type     | Link | Comment
+---------|------|-----------
+Question | https://isaaccs.org/bq/gcse_net_02 |
+Question | https://isaaccs.org/bq/gcse_net_11 |
+Question | https://isaaccs.org/bq/gcse_net_01 |
+Question | https://isaaccs.org/bq/gcse_net_12 |
+Question | https://isaaccs.org/bq/gcse_net_17 |
+Question | https://isaaccs.org/bq/net_network_g01 |
+Question | https://isaaccs.org/bq/net_network_g02 |
+Question | https://isaaccs.org/bq/net_network_g03 |
+Question | https://isaaccs.org/bq/gcse_net_05 |
+Question | https://isaaccs.org/bq/gcse_net_06 |
+Question | https://isaaccs.org/bq/gcse_net_10 |
+Question | https://isaaccs.org/bq/gcse_net_13 |
+Question | https://isaaccs.org/bq/gcse_net_14 |
+Question | https://isaaccs.org/bq/net_internet_g01 |
+Question | https://isaaccs.org/bq/net_internet_g02 |
+Question | https://isaaccs.org/bq/net_internet_g03 |
+Question | https://isaaccs.org/bq/net_hard_g01 |
+Question | https://isaaccs.org/bq/net_hard_g02 |
+Question | https://isaaccs.org/bq/net_hard_g03 |
+Question | https://isaaccs.org/bq/gcse_bool_02 |
+Question | https://isaaccs.org/bq/gcse_bool_08 |
+Question | https://isaaccs.org/bq/gcse_bool_01 |
+Question | https://isaaccs.org/bq/gcse_bool_03 |
+Question | https://isaaccs.org/bq/gcse_bool_04 |
+Question | https://isaaccs.org/bq/gcse_bool_05_v2 |
+Question | https://isaaccs.org/bq/gcse_bool_07 |
+Question | https://isaaccs.org/bq/gcse_bool_09 |
+Question | https://isaaccs.org/bq/gcse_bool_10 |
+Question | https://isaaccs.org/bq/sys_bool_exp_truth_g1 |
+Question | https://isaaccs.org/bq/sys_bool_exp_truth_g2 |
+Question | https://isaaccs.org/bq/sys_bool_truth_g1 |
+Question | https://isaaccs.org/bq/sys_bool_truth_g2 |
+Question | https://isaaccs.org/bq/embedded_systems_g_01 |
+Question | https://isaaccs.org/bq/embedded_systems_g_02 |
+Question | https://isaaccs.org/bq/gcse_sys_01 |
+Question | https://isaaccs.org/bq/gcse_sys_02 |
+Question | https://isaaccs.org/bq/gcse_sys_06 |
+Question | https://isaaccs.org/bq/gcse_sys_07 |
+Question | https://isaaccs.org/bq/gcse_sys_14 |
+Question | https://isaaccs.org/bq/gcse_sys_15 |
+Question | https://isaaccs.org/bq/gcse_sys_16 |
+Question | https://isaaccs.org/bq/gcse_sys_17 |
+Question | https://isaaccs.org/bq/sys_arch_g01 |
+Question | https://isaaccs.org/bq/gcse_sys_18 |
+Question | https://isaaccs.org/bq/gcse_sys_20 |
+Question | https://isaaccs.org/bq/gcse_sys_19 |
+Question | https://isaaccs.org/bq/sys_arch_g02 |
+Question | https://isaaccs.org/bq/gcse_sys_22 |
+Question | https://isaaccs.org/bq/gcse_sys_21 |
+Question | https://isaaccs.org/bq/gcse_sys_11 |
+Question | https://isaaccs.org/bq/gcse_sys_12 |
+Question | https://isaaccs.org/bq/gcse_data_14 |
+Question | https://isaaccs.org/bq/gcse_data_18 |
+Question | https://isaaccs.org/bq/gcse_data_26 |
+Question | https://isaaccs.org/bq/gcse_sys_05 |
+Question | https://isaaccs.org/bq/gcse_sys_03 |
+Question | https://isaaccs.org/bq/gcse_sys_13 |
+Question | https://isaaccs.org/bq/gcse_sys_08 |
+Question | https://isaaccs.org/bq/gcse_sys_04 |
+Question | https://isaaccs.org/bq/sys_arch_memory_g_03 |
+Question | https://isaaccs.org/bq/sys_arch_memory_g_01 |
+Question | https://isaaccs.org/bq/sys_arch_storage_g_04 |
+Question | https://isaaccs.org/bq/sys_arch_memory_g_02 |
+Question | https://isaaccs.org/bq/sys_arch_storage_g_01 |
+Question | https://isaaccs.org/bq/sys_arch_storage_g_02 |
+Question | https://isaaccs.org/bq/sys_arch_storage_g_03 |
+Question | https://isaaccs.org/bq/sys_hard_g01 |
+Question | https://isaaccs.org/bq/sys_hard_g02 |
+Question | https://isaaccs.org/bq/sys_hard_g03 |
+Question | https://isaaccs.org/bq/sys_hard_g04 |
+Question | https://isaaccs.org/bq/sys_hard_g10 |
+Question | https://isaaccs.org/bq/sys_hard_g05 |
+Question | https://isaaccs.org/bq/sys_hard_g06 |
+Question | https://isaaccs.org/bq/sys_hard_g08 |
+Question | https://isaaccs.org/bq/sys_hard_g09 |
+Question | https://isaaccs.org/bq/sys_hard_g07 |
+Question | https://isaaccs.org/bq/sys_os_software_defs_g01 |
+Question | https://isaaccs.org/bq/sys_os_software_utility_g01 |
+Question | https://isaaccs.org/bq/sys_soft_g01 |
+Question | https://isaaccs.org/bq/sys_soft_g02 |
+Question | https://isaaccs.org/bq/sys_soft_g05 |
+Question | https://isaaccs.org/bq/sys_soft_g04 |
+Question | https://isaaccs.org/bq/sys_soft_g06 |
+Question | https://isaaccs.org/bq/sys_soft_g07 |
+Question | https://isaaccs.org/bq/sys_soft_g08 |
+Question | https://isaaccs.org/bq/sys_soft_g03 |
+Question | https://isaaccs.org/bq/sys_os_role_of_os_g01 |
+Question | https://isaaccs.org/bq/sys_os_role_of_os_g02 |
+Question | https://isaaccs.org/bq/sys_os_role_of_os_g03 |
+Question | https://isaaccs.org/bq/sys_os_g06 |
+Question | https://isaaccs.org/bq/sys_os_g07 |
+Question | https://isaaccs.org/bq/sys_os_g05 |
+Question | https://isaaccs.org/bq/sys_os_g01 |
+Question | https://isaaccs.org/bq/sys_os_g02 |
+Question | https://isaaccs.org/bq/sys_os_g04 |
+Question | https://isaaccs.org/bq/sys_os_g03 |
+Question | https://isaaccs.org/bq/sys_proglang_g01 |
+Question | https://isaaccs.org/bq/sys_proglang_g06 |
+Question | https://isaaccs.org/bq/sys_proglang_g02 |
+Question | https://isaaccs.org/bq/sys_proglang_g03 |
+Question | https://isaaccs.org/bq/sys_proglang_g04 |
+Question | https://isaaccs.org/bq/sys_proglang_g05 |
+Question | https://isaaccs.org/bq/sys_proglang_g07 |
+Question | https://isaaccs.org/bq/sys_proglang_g08 |
+Question | https://isaaccs.org/bq/sys_proglang_g09 |
+Question | https://isaaccs.org/bq/sys_proglang_g10 |
+Question | https://isaaccs.org/bq/sys_trans_g01 |
+Question | https://isaaccs.org/bq/sys_trans_g02 |
+Question | https://isaaccs.org/bq/sys_trans_g03 |
+Question | https://isaaccs.org/bq/sys_trans_g04 |
+Question | https://isaaccs.org/bq/sys_trans_g06 |
+Question | https://isaaccs.org/bq/sys_trans_g05 |
+Question | https://isaaccs.org/bq/sys_trans_g07 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g03 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g01 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g02 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g05 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g06 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g07 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g08 |
+Question | https://isaaccs.org/bq/cyb_social_techniques_g04 |
+Question | https://isaaccs.org/bq/cyb_mal_g01 |
+Question | https://isaaccs.org/bq/cyb_mal_g02 |
+Question | https://isaaccs.org/bq/cyb_mal_g03 |
+Question | https://isaaccs.org/bq/cyb_mal_g04 |
+Question | https://isaaccs.org/bq/cyb_sec_g01 |
+Question | https://isaaccs.org/bq/cyb_sec_g03 |
+Question | https://isaaccs.org/bq/cyb_sec_g04 |
+Question | https://isaaccs.org/bq/cyb_sec_g05 |
+Question | https://isaaccs.org/bq/cyb_sec_g07 |
+Question | https://isaaccs.org/bq/cyb_sec_g08 |
+Question | https://isaaccs.org/bq/cyb_sec_g06 |
+Question | https://isaaccs.org/bq/data_numbases_binary_and_decimal_g01 |
+Question | https://isaaccs.org/bq/data_numbases_binary_and_decimal_g02 |

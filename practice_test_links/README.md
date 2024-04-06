@@ -11,4 +11,4 @@ grep -Po "isaaccs.org\S+" gcse_comp  > links
 for item in $(cat links) ; do echo https://${item} ; done
 ```
 
-This was pasted into the ```q_and_a.md``` file.
+This was pasted into the [q_and_a.md](https://github.com/Bernso/ComputerScience-Y11/blob/main/practice_test_links/q_and_a.md) file.
